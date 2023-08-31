@@ -1,5 +1,7 @@
 #  Brillio - iOS Coding Test
 
+## Completed this exercise using swift and mvvm
+
 ## Description
 
 The aim of this project is to create a straighforward iOS app that fetches data from a remote data 
